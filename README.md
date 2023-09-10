@@ -7,7 +7,7 @@ This project aims to perform sentiment analysis on Arabic reviews using the BERT
 <img src="https://i.ibb.co/nQH0KcM/Picture1.png" alt="Picture1" border="0">
 
 * The process of sentiment analysis involves several steps, including preprocessing, tokenization, lemmatization, and stop-word removal. Preprocessing involves determining relevant keywords that highlight the central message of the text. Tokenization divides the text into sentences and words for analysis called tokens. Lemmatization transforms words to their root form, and stop-word removal filters out insignificant words. Natural Language Processing (NLP) technologies assign sentiment scores to identified keywords, providing a quantitative measure of the sentiment expressed in the text.
-
+  
 * Once the text is preprocessed, it undergoes sentiment analysis using the BERT model, a widely used approach. BERT learns word relationships within sentences through masked language modeling, where some words are masked, and the model predicts the missing ones. With this knowledge, BERT can be applied to various NLP tasks, including sentiment analysis. By examining word relationships in sentences, BERT accurately predicts the text's sentiment. The model's accuracy is assessed for both negative and positive reviews and compared to other machine learning models.
 
   
