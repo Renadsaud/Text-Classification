@@ -1,7 +1,7 @@
 # Text_classification
 This project aims to perform sentiment analysis on Arabic reviews using the BERT model, a pre-trained deep learning model that has been proven effective for this task. Sentiment analysis is a technique in natural language processing that identifies and extracts subjective information from text data to determine the prevailing attitude of a particular text. The ultimate objective of this project is to develop a sentiment analysis model that can accurately classify Arabic reviews as positive, or negative.
 
-[![Picture1.png](https://i.postimg.cc/FzZkg9x7/Picture1.png)](https://postimg.cc/XBrvn6mb)
+[![Picture1.png](https://i.postimg.cc/FzZkg9x7/Picture1.png)
 
 The process of sentiment analysis involves several steps, including preprocessing, tokenization, lemmatization, and stop-word removal. Preprocessing involves determining relevant keywords that highlight the central message of the text. Tokenization divides the text into sentences and words for analysis called tokens. Lemmatization transforms words to their root form, and stop-word removal filters out insignificant words. Natural Language Processing (NLP) technologies assign sentiment scores to identified keywords, providing a quantitative measure of the sentiment expressed in the text.
 
