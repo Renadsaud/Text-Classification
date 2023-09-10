@@ -26,6 +26,8 @@ Here I will attach some test samples of positive and negative sentiments test sa
 <br/> 
 2-Negative Sentiment
 <img src="https://i.ibb.co/THDNdN0/Picture9.png" alt="Picture9" border="0">
+
+
 ------------------------------------------------------------------------------------
 
 * After conducting sentiment analysis on an Arabic text using BERT, it can be concluded that the model performed well in accurately identifying and classifying the sentiment of the text. The results showed that the trained model achieved an accuracy of 87.67% on the test data, indicating that the model learned reasonably well from the training data. The figure below provides a graph of the values predicted by the model compared to the actual values in the testing dataset.
@@ -45,7 +47,6 @@ In the figure below, the True and predicted values of MNB and BNB are shown, whe
 
 Overall, BERT proves to be a promising tool for sentiment analysis in Arabic texts, and we can expect even more advanced techniques and models to further enhance the accuracy and effectiveness of sentiment analysis in the field of natural language processing.
 
-------------------------------------------------------------------------------------
 # Libraries used 
 Throughout the project, various libraries were utilized, including Numpy, Pandas, Seaborn, Transformers, Time, Unicode data, Torch, Train_test_split, MultinomialNB, Classification_report, CountVectorizer, and matplotlib.pyplot. These libraries facilitated tasks like data manipulation, visualization, machine learning, and text processing.
 
