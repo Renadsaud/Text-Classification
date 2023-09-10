@@ -10,6 +10,21 @@ This project aims to perform sentiment analysis on Arabic reviews using the BERT
 
 * Once the text is preprocessed, it undergoes sentiment analysis using the BERT model, a widely used approach. BERT learns word relationships within sentences through masked language modeling, where some words are masked, and the model predicts the missing ones. With this knowledge, BERT can be applied to various NLP tasks, including sentiment analysis. By examining word relationships in sentences, BERT accurately predicts the text's sentiment. The model's accuracy is assessed for both negative and positive reviews and compared to other machine learning models.
 
+  
+# Graphic User Interfaces (GUIs)
+which are two interfaces (the main window and the classify window). We were able to create these interfaces using the powerful and popular PyQt5 toolkit for building desktop applications using Python.
+Here are screenshots of the interfaces of the program.
+
+<img src="https://i.ibb.co/BV8dFfG/Picture6.png" alt="Picture6" border="0">
+<img src="https://i.ibb.co/jhL08vk/Picture7.png" alt="Picture7" border="0">
+
+* Test Samples
+Here I will attach some test samples of positive and negative sentiments test samples:
+1-Positive Sentiment
+<img src="https://i.ibb.co/MSfrVQ2/Picture8.png" alt="Picture8" border="0">
+
+2-Negative Sentiment
+<img src="https://i.ibb.co/THDNdN0/Picture9.png" alt="Picture9" border="0">
 ------------------------------------------------------------------------------------
 
 * After conducting sentiment analysis on an Arabic text using BERT, it can be concluded that the model performed well in accurately identifying and classifying the sentiment of the text. The results showed that the trained model achieved an accuracy of 87.67% on the test data, indicating that the model learned reasonably well from the training data. The figure below provides a graph of the values predicted by the model compared to the actual values in the testing dataset.
@@ -28,21 +43,6 @@ In the figure below, the True and predicted values of MNB and BNB are shown, whe
 <br/>
 
 Overall, BERT proves to be a promising tool for sentiment analysis in Arabic texts, and we can expect even more advanced techniques and models to further enhance the accuracy and effectiveness of sentiment analysis in the field of natural language processing.
-
-# Graphic User Interfaces (GUIs)
-which are two interfaces (the main window and the classify window). We were able to create these interfaces using the powerful and popular PyQt5 toolkit for building desktop applications using Python.
-Here are screenshots of the interfaces of the program.
-
-<img src="https://i.ibb.co/BV8dFfG/Picture6.png" alt="Picture6" border="0">
-<img src="https://i.ibb.co/jhL08vk/Picture7.png" alt="Picture7" border="0">
-
-* Test Samples
-Here I will attach some test samples of positive and negative sentiments test samples:
-- Positive Sentiment
-<img src="https://i.ibb.co/MSfrVQ2/Picture8.png" alt="Picture8" border="0">
-
-- Negative Sentiment
-<img src="https://i.ibb.co/THDNdN0/Picture9.png" alt="Picture9" border="0">
 
 ------------------------------------------------------------------------------------
 # Libraries used 
