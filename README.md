@@ -29,6 +29,21 @@ In the figure below, the True and predicted values of MNB and BNB are shown, whe
 
 Overall, BERT proves to be a promising tool for sentiment analysis in Arabic texts, and we can expect even more advanced techniques and models to further enhance the accuracy and effectiveness of sentiment analysis in the field of natural language processing.
 
+# Graphic User Interfaces (GUIs)
+which are two interfaces (the main window and the classify window). We were able to create these interfaces using the powerful and popular PyQt5 toolkit for building desktop applications using Python.
+Here are screenshots of the interfaces of the program.
+
+<img src="https://i.ibb.co/BV8dFfG/Picture6.png" alt="Picture6" border="0">
+<img src="https://i.ibb.co/jhL08vk/Picture7.png" alt="Picture7" border="0">
+
+* Test Samples
+Here I will attach some test samples of positive and negative sentiments test samples:
+- Positive Sentiment
+<img src="https://i.ibb.co/MSfrVQ2/Picture8.png" alt="Picture8" border="0">
+
+- Negative Sentiment
+<img src="https://i.ibb.co/THDNdN0/Picture9.png" alt="Picture9" border="0">
+
 ------------------------------------------------------------------------------------
 # Libraries used 
 Throughout the project, various libraries were utilized, including Numpy, Pandas, Seaborn, Transformers, Time, Unicode data, Torch, Train_test_split, MultinomialNB, Classification_report, CountVectorizer, and matplotlib.pyplot. These libraries facilitated tasks like data manipulation, visualization, machine learning, and text processing.
