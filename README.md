@@ -7,10 +7,15 @@ The process of sentiment analysis involves several steps, including preprocessin
 
 Once the text is preprocessed, it undergoes sentiment analysis using the BERT model, a widely used approach. BERT learns word relationships within sentences through masked language modeling, where some words are masked, and the model predicts the missing ones. With this knowledge, BERT can be applied to various NLP tasks, including sentiment analysis. By examining word relationships in sentences, BERT accurately predicts the text's sentiment. The model's accuracy is assessed for both negative and positive reviews and compared to other machine learning models.
 
+[![Picture2.png](https://i.postimg.cc/rFDq9Vj3/Picture2.png)](https://postimg.cc/Mv8k68hm)
+
 After conducting sentiment analysis on an Arabic text using BERT, it can be concluded that the model performed well in accurately identifying and classifying the sentiment of the text. The results showed that the trained model achieved an accuracy of 87.67% on the test data, indicating that the model learned reasonably well from the training data. 
 
-Additionally, we compared the test model with other ML models such as Naive Bayes MultinomialNB and BernoulliNB, to evaluate accuracy in the sentiment prediction model. After applying NB models on the same Arabic dataset, we concluded that BERT had the best accuracy as it outperformed both MultinomialNB and BernoulliNB by approximately 5%. 
+[![Picture3.png](https://i.postimg.cc/T3vBWf4r/Picture3.png)](https://postimg.cc/9r1L65VM)
 
+Additionally, we compared the test model with other ML models such as Naive Bayes MultinomialNB and BernoulliNB, to evaluate accuracy in the sentiment prediction model. After applying NB models on the same Arabic dataset, we concluded that BERT had the best accuracy as it outperformed both MultinomialNB and BernoulliNB by approximately 5%. 
+[![Picture4.png](https://i.postimg.cc/8kJ1Rkt3/Picture4.png)](https://postimg.cc/Bt39s3Wc)
+[![Picture5.png](https://i.postimg.cc/kg9qPQq3/Picture5.png)](https://postimg.cc/0btLpJzc)
 Overall, BERT proves to be a promising tool for sentiment analysis in Arabic texts, and we can expect even more advanced techniques and models to further enhance the accuracy and effectiveness of sentiment analysis in the field of natural language processing.
 
 
@@ -18,10 +23,4 @@ Throughout the project, various libraries were utilized, including Numpy, Pandas
 
 
 
-![image](https://github.com/Renadsaud/Text_classification/assets/95434316/4d9bd6e2-ce08-4c3c-b135-fb0ccfd15a4d)
-
-
-![image](https://github.com/Renadsaud/Text_classification/assets/95434316/0a8a4e16-c1fc-453d-9d6b-5b4e326328d6)
-
-![image](https://github.com/Renadsaud/Text_classification/assets/95434316/5df05ebe-82bf-473e-af17-2be02b8ed11a)
 
