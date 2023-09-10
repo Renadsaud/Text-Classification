@@ -22,6 +22,7 @@ Additionally, we compared the test model with other ML models such as Naive Baye
 <img src="https://i.ibb.co/JkR8q8K/Picture3.png" alt="Picture3" border="0">
 
 In the figure below, the True and predicted values of MNB and BNB are shown, where the confusion matrix explains the ratios of correctly predicted values to falsely predicted values.
+<br/> 
 <br/>
 <img src="https://i.ibb.co/KWhpXWZ/Picture4.png" alt="Picture4" border="0"><img src="https://i.ibb.co/zRRcL4d/Picture5.png" alt="Picture5" border="0">
 <br/>
@@ -29,7 +30,7 @@ In the figure below, the True and predicted values of MNB and BNB are shown, whe
 Overall, BERT proves to be a promising tool for sentiment analysis in Arabic texts, and we can expect even more advanced techniques and models to further enhance the accuracy and effectiveness of sentiment analysis in the field of natural language processing.
 
 ------------------------------------------------------------------------------------
-
+# Libraries used 
 Throughout the project, various libraries were utilized, including Numpy, Pandas, Seaborn, Transformers, Time, Unicode data, Torch, Train_test_split, MultinomialNB, Classification_report, CountVectorizer, and matplotlib.pyplot. These libraries facilitated tasks like data manipulation, visualization, machine learning, and text processing.
 
 # The programming language used
