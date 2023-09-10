@@ -20,7 +20,6 @@ Here are screenshots of the interfaces of the program.
 
 * Test Samples
 Here I will attach some test samples of positive and negative sentiments test samples:
-<br/> 
 1-Positive Sentiment
 <img src="https://i.ibb.co/MSfrVQ2/Picture8.png" alt="Picture8" border="0">
 <br/> 
