@@ -12,11 +12,14 @@ Once the text is preprocessed, it undergoes sentiment analysis using the BERT mo
 After conducting sentiment analysis on an Arabic text using BERT, it can be concluded that the model performed well in accurately identifying and classifying the sentiment of the text. The results showed that the trained model achieved an accuracy of 87.67% on the test data, indicating that the model learned reasonably well from the training data. 
 
 <img src="https://i.ibb.co/JkR8q8K/Picture3.png" alt="Picture3" border="0">
+
 Additionally, we compared the test model with other ML models such as Naive Bayes MultinomialNB and BernoulliNB, to evaluate accuracy in the sentiment prediction model. After applying NB models on the same Arabic dataset, we concluded that BERT had the best accuracy as it outperformed both MultinomialNB and BernoulliNB by approximately 5%. 
+
 <br/>
 <img src="https://i.ibb.co/KWhpXWZ/Picture4.png" alt="Picture4" border="0">
 <img src="https://i.ibb.co/zRRcL4d/Picture5.png" alt="Picture5" border="0">
 <br/>
+
 Overall, BERT proves to be a promising tool for sentiment analysis in Arabic texts, and we can expect even more advanced techniques and models to further enhance the accuracy and effectiveness of sentiment analysis in the field of natural language processing.
 
 
